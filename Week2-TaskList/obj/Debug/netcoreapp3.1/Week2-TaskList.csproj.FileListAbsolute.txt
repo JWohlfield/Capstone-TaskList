@@ -1,0 +1,13 @@
+C:\Users\Butch\source\repos\Capstones\Week2-TaskList\Week2-TaskList\bin\Debug\netcoreapp3.1\Week2-TaskList.exe
+C:\Users\Butch\source\repos\Capstones\Week2-TaskList\Week2-TaskList\bin\Debug\netcoreapp3.1\Week2-TaskList.deps.json
+C:\Users\Butch\source\repos\Capstones\Week2-TaskList\Week2-TaskList\bin\Debug\netcoreapp3.1\Week2-TaskList.runtimeconfig.json
+C:\Users\Butch\source\repos\Capstones\Week2-TaskList\Week2-TaskList\bin\Debug\netcoreapp3.1\Week2-TaskList.runtimeconfig.dev.json
+C:\Users\Butch\source\repos\Capstones\Week2-TaskList\Week2-TaskList\bin\Debug\netcoreapp3.1\Week2-TaskList.dll
+C:\Users\Butch\source\repos\Capstones\Week2-TaskList\Week2-TaskList\bin\Debug\netcoreapp3.1\Week2-TaskList.pdb
+C:\Users\Butch\source\repos\Capstones\Week2-TaskList\Week2-TaskList\obj\Debug\netcoreapp3.1\Week2-TaskList.csprojAssemblyReference.cache
+C:\Users\Butch\source\repos\Capstones\Week2-TaskList\Week2-TaskList\obj\Debug\netcoreapp3.1\Week2-TaskList.AssemblyInfoInputs.cache
+C:\Users\Butch\source\repos\Capstones\Week2-TaskList\Week2-TaskList\obj\Debug\netcoreapp3.1\Week2-TaskList.AssemblyInfo.cs
+C:\Users\Butch\source\repos\Capstones\Week2-TaskList\Week2-TaskList\obj\Debug\netcoreapp3.1\Week2-TaskList.csproj.CoreCompileInputs.cache
+C:\Users\Butch\source\repos\Capstones\Week2-TaskList\Week2-TaskList\obj\Debug\netcoreapp3.1\Week2-TaskList.dll
+C:\Users\Butch\source\repos\Capstones\Week2-TaskList\Week2-TaskList\obj\Debug\netcoreapp3.1\Week2-TaskList.pdb
+C:\Users\Butch\source\repos\Capstones\Week2-TaskList\Week2-TaskList\obj\Debug\netcoreapp3.1\Week2-TaskList.genruntimeconfig.cache
